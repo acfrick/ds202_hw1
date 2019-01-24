@@ -1,0 +1,35 @@
+---
+title: "Homework #1"
+author: "Allegra Frickel"
+date: "January 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**2. Write a paragraph describing an example of what you consider data science**
+
+*Data science to me is problem solving through data.* I believe exploring data is extremely valuable as you can find opportunities demonstrated by data. Thus, data science is determining what to do based on that data. For example, in consumer data, companies can identify who their audience is through demographics and psychographics provided in data.
+
+https://www.marketingsherpa.com/article/chart/online-shopping-behaviors-based-on-age
+
+**3. Find the version of R**
+
+```{r}
+version
+```
+
+**5. What is the version of your Git?**
+2.20.1
+
+**6. Configure Git**
+user.name "Allegra Frickel"
+user.email "africkel@iastate.edu"
+
+**7. GitHub username**
+acfrick
+
+
+
