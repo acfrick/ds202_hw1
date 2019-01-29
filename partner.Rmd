@@ -1,0 +1,19 @@
+---
+title: "partner"
+author: "Audrey Comer"
+date: "1/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner's name: Allegra Frickel
+
+Partner's Github username: acfrick
+
+Latest commit: hw1.html
+
+Commit id: 94c422f050b6a23cdb55103735dd6625d1876db6
+
